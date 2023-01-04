@@ -1,0 +1,28 @@
+body {
+    height: 100vh;
+    background: hsl(212, 45%, 89%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Outfit', sans-serif;
+}
+
+.main {
+    background: #fff;
+    padding: 1rem;
+    border-radius: 10px;
+    width: 350px;
+}
+
+.heading {
+    text-align: center;
+    color: hsl(218, 44%, 22%);
+    font-weight: 900;
+}
+
+.para {
+    text-align: center;
+    font-size: 18px;
+    color: hsl(220, 15%, 55%);
+    font-weight: 400;
+}
